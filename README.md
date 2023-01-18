@@ -2,11 +2,7 @@
 
 [![Fires's GitHub stats](https://github-readme-stats.vercel.app/api?username=fires1&show_icons=true&theme=synthwave&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Plus a couple hundred commits on Gitlab if we're getting picky on stats.
-
-Hobby programmer, licensed EMT-B, currently contributing to projects relating to Facepunch's S&box. 
-
-Contact me through Discord @ Fires#2100.
+[My website](https://samuelada.ms/)
 <!--
 **Fires1/Fires1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
